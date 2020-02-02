@@ -16,6 +16,7 @@ namespace TestGitApp
             Console.WriteLine("Hello2");
             Console.WriteLine("World2");
 
+            Console.WriteLine("Hello3");
             Console.WriteLine("World3");
 
             Console.ReadKey();
